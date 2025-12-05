@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Output folders
+input_data/
+output_data/
+environments/
